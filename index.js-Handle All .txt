@@ -1,0 +1,39 @@
+npm init
+npm i express
+src api files
+install mongoose
+create mongodb database
+.env create-all sensitive data not display in repositary
+.env package install-npm install dotenv
+link all env to confige file(create index file)
+import express and dotenv to main index.js
+create connectDatabase.js and import mongoose
+import connectDatabase.js to index.js in libraries
+import libraries to main index
+create component const app=express();
+import config file
+create index file in modles
+create index and Users in contriller
+install bcrypt
+
+
+
+
+
+
+
+
+
+
+
+
+
+index.js-Handle All 
+api/v1- version(Project Version,Update Project)
+controller-business logic
+routes-get,push.... okkoma hadanne meke
+midleware-routs eken controller ekata yanna kalin monawahari check karanne
+mongoose-back end ekei mongodb connect kireemata
+modles-user.js-userschema kiyana structure eka user kiyana naming mongodu eke hadenawa
+erro cods balanna
+8zLU4B3BSHmIC7u9
